@@ -1,7 +1,9 @@
 # Movie_Base_nextjs
 A simple movie search app with NextJS 
 
-moviebase-nextjs.netlify.app
+[MovieBase](https://moviebase-nextjs.netlify.app)
+
+
 
 # Project Name
 
@@ -21,6 +23,9 @@ Short project description goes here.
   - [Contributing](#contributing)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
+
+<img src="./moviebase.jpg" alt="Alt Text" width="400" height="400">
+
 
 ## Introduction
 
