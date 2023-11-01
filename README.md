@@ -1,13 +1,14 @@
-# Movie_Base_nextjs
-A simple movie search app with NextJS 
+# Movie_Base_Nextjs
 
+An API project I had fun with to make. To learn about Next.js , Tailwind and Typescript. Nice to look up movies by name see the Movieposters amd votes.
+
+
+View the app: 
 [MovieBase](https://moviebase-nextjs.netlify.app)
 
 
 
-# Project Name
 
-Short project description goes here.
 
 ## Table of Contents
 
